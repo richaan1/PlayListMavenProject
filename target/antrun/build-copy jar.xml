@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="copy jar"  >
+<target name="copy jar">
+  <copy file="C:\musicplayer\target/music-player-1.0-SNAPSHOT.jar" tofile="C:\musicplayer/lib/music-player.jar"/>
+</target>
+</project>
